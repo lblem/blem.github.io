@@ -1,2 +1,4 @@
 # blem.github.io
-Páginas de login com vários styles.
+Página de login, com estilos diferenciados (shadows, rgbs, container, social-medias links direcionais, passwords authentication, UX)
+
+
